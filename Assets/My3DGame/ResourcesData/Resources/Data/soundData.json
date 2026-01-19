@@ -1,0 +1,30 @@
+{
+    "clips": [
+        {
+            "id": 0,
+            "name": "Sound07",
+            "soundType": 1,
+            "clipPath": "Audio/SFX/",
+            "clipFileName": "Interface_07",
+            "isLoop": false,
+            "volume": 1.0,
+            "pitch": 1.0,
+            "spatialBlend": 0.0,
+            "minDistance": 1.0,
+            "maxDistance": 500.0
+        },
+        {
+            "id": 1,
+            "name": "Sound08",
+            "soundType": 0,
+            "clipPath": "Audio/SFX/",
+            "clipFileName": "Interface_08",
+            "isLoop": true,
+            "volume": 1.0,
+            "pitch": 1.0,
+            "spatialBlend": 0.0,
+            "minDistance": 1.0,
+            "maxDistance": 500.0
+        }
+    ]
+}

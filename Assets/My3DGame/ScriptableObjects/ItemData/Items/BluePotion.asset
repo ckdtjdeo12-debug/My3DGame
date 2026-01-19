@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 790eb972f36b2e44c92936e630b0e57f, type: 3}
+  m_Name: BluePotion
+  m_EditorClassIdentifier: 
+  description: BluePotion consumable item
+  data:
+    id: 4
+    name: BluePotion
+    buffs:
+    - stat: 5
+      value: 0
+      min: 50
+      max: 50
+  itemType: 8
+  stackable: 1
+  shopPrice: 500
+  icon: {fileID: 21300000, guid: 21da0b2486144b24eb43a6def0d103d2, type: 3}
+  modlePrefab: {fileID: 0}
